@@ -1,0 +1,2 @@
+# intmax-privacy-mining
+Intmaxのプライバシーマイニングについてメモ
